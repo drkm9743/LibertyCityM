@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<train_tracks version = "1">
+	<train_track
+		filename="resources:/libertycity/trains/trains13.dat"
+		trainConfigName="metro_group"
+		isPingPongTrack="false"
+		stopsAtStations="true"
+		MPstopsAtStations="true"
+		speed="18"
+		brakingDist="25"
+        isDLC="true"
+        dlcTrackIndex="12"/>
+	<train_track
+		filename="resources:/libertycity/trains/trains14.dat"
+		trainConfigName="metro_group"
+		isPingPongTrack="false"
+		stopsAtStations="true"
+		MPstopsAtStations="true"
+		speed="18"
+		brakingDist="25"
+        isDLC="true"
+        dlcTrackIndex="13"/>
+	<train_track
+		filename="resources:/libertycity/trains/trains15.dat"
+		trainConfigName="metro_group"
+		isPingPongTrack="false"
+		stopsAtStations="true"
+		MPstopsAtStations="true"
+		speed="18"
+		brakingDist="25"
+        isDLC="true"
+        dlcTrackIndex="14"/>
+	<train_track
+		filename="resources:/libertycity/trains/trains16.dat"
+		trainConfigName="metro_group"
+		isPingPongTrack="false"
+		stopsAtStations="true"
+		MPstopsAtStations="true"
+		speed="18"
+		brakingDist="25"
+        isDLC="true"
+        dlcTrackIndex="15"/>
+</train_tracks>
+
+

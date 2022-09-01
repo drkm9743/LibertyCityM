@@ -1,13 +1,13 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name         'libertycity'
-author       'Rockstar Games'
+name         'LibertyCityM'
+author       'DRKM43'
 version      '1.0.0'
 description  'Grand Theft Auto IV: EFLC map ready to use on FiveM'
 
 client_scripts {
-    'scripts/libertycity.lua',
+        'scripts/libertycity.lua',
 	'scripts/subway_lc.lua',
 	'scripts/zone_names.lua'
 }
